@@ -44,7 +44,7 @@ Stworzenie aplikacji rozwiązującej realny problem społeczności szkolnej — 
 
 ## 🚀 Demo online
 
-👉 [Link do wersji online na Vercel]([https://twoj-projekt.vercel.app](https://wyszukiwarka-memow.vercel.app))
+👉 LINK:  https://wyszukiwarka-memow.vercel.app
 
 ---
 
